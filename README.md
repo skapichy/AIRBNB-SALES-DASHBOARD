@@ -95,3 +95,5 @@ Double down on marketing and expansion in cities and listings that consistently 
 This project reinforced the importance of telling a clear business story with data. Beyond visuals, the analysis highlights how operational decisions—like response time, cleanliness, and instant booking—directly impact revenue and customer trust.
 
 📌 Open to feedback and collaboration.
+
+## I'm Unable to upload the dataset and the pbix file because they are too large
