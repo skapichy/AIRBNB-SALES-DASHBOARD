@@ -60,7 +60,7 @@ Poor cleanliness directly threatens trust, repeat bookings, and platform reputat
  - Listings accommodating 2 guests dominate bookings, indicating strong demand from couples and solo travelers.
  - Larger group listings exist but are less optimized and under-marketed.
 
-##💡 Business Recommendations
+## 💡 Business Recommendations
 
 - Increase Instant Booking Adoption
 Promote instant booking through incentives, education, and ranking advantages.
